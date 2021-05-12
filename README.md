@@ -1,34 +1,36 @@
-Raven Core integration/staging tree
+This is a hard fork project of Raven Core
+
+Danger Core integration/staging tree
 =====================================
 
-https://ravencoin.org
+no website yet
 
-What is Ravencoin?
+What is DangerMoon?
 ----------------
 
-Ravencoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Ravencoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. 
+DangerMoon is an experimental digital currency, asset manager, media exchange, and social media platform 
+that enables instant payments, asset creation/exchange, and communications to anyone, anywhere in the world. 
+DangerMoon uses peer-to-peer technology to operate with no central authority: managing transactions and 
+issuing money are carried out collectively by the network. 
 
 
 
 License
 -------
 
-Raven Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Danger Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/RavenProject/Ravencoin/tags) are created
-regularly to indicate new official, stable release versions of Raven Core.
+The `master` branch is a work in progress and needs to be developed and tested and is not guaranteed to be
+completely stable. [Tags](https://github.com/DangerProject/DangerMoon/tags) are created
+regularly to indicate new official, stable release versions of Danger Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Developer IRC can be found on Freenode at #raven-core-dev.
+Developer IRC can hopefully soon be found on Freenode at #danger-core-dev.
 
 Testing
 -------
